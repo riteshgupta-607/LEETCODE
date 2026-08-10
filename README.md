@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
+| [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
