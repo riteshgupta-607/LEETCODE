@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/riteshgupta-607/LEETCODE/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/riteshgupta-607/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/riteshgupta-607/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -92,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/riteshgupta-607/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
