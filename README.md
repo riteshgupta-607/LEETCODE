@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/riteshgupta-607/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/riteshgupta-607/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/riteshgupta-607/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/riteshgupta-607/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
@@ -118,5 +121,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/riteshgupta-607/LEETCODE/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
