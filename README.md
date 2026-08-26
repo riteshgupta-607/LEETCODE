@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/riteshgupta-607/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1927-sum-game](https://github.com/riteshgupta-607/LEETCODE/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Design
 |  |
 | ------- |
