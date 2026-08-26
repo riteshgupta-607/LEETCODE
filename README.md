@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/riteshgupta-607/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0647-palindromic-substrings](https://github.com/riteshgupta-607/LEETCODE/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/riteshgupta-607/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/riteshgupta-607/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/riteshgupta-607/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1927-sum-game](https://github.com/riteshgupta-607/LEETCODE/tree/master/1927-sum-game) |
 ## Design
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/riteshgupta-607/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
