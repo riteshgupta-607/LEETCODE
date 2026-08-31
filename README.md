@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/riteshgupta-607/LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/riteshgupta-607/LEETCODE/tree/master/0231-power-of-two) |
 | [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/riteshgupta-607/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/riteshgupta-607/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshgupta-607/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/riteshgupta-607/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
