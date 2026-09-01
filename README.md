@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/riteshgupta-607/LEETCODE/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/riteshgupta-607/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/riteshgupta-607/LEETCODE/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/riteshgupta-607/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/riteshgupta-607/LEETCODE/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/riteshgupta-607/LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/riteshgupta-607/LEETCODE/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/riteshgupta-607/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
