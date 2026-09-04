@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/riteshgupta-607/LEETCODE/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/riteshgupta-607/LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/riteshgupta-607/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/riteshgupta-607/LEETCODE/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/riteshgupta-607/LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/riteshgupta-607/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/riteshgupta-607/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
