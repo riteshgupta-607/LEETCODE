@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/riteshgupta-607/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/riteshgupta-607/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshgupta-607/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/riteshgupta-607/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/riteshgupta-607/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/riteshgupta-607/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/riteshgupta-607/LEETCODE/tree/master/0647-palindromic-substrings) |
