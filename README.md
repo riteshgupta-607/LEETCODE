@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/riteshgupta-607/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshgupta-607/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/riteshgupta-607/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/riteshgupta-607/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/riteshgupta-607/LEETCODE/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshgupta-607/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/riteshgupta-607/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/riteshgupta-607/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/riteshgupta-607/LEETCODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/riteshgupta-607/LEETCODE/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/riteshgupta-607/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0567-permutation-in-string) |
 | [2404-most-frequent-even-element](https://github.com/riteshgupta-607/LEETCODE/tree/master/2404-most-frequent-even-element) |
@@ -157,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/riteshgupta-607/LEETCODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0268-missing-number) |
 | [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/riteshgupta-607/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/riteshgupta-607/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
