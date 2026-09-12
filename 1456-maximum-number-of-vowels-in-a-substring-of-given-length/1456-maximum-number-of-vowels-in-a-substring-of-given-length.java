@@ -16,26 +16,26 @@ class Solution {
         return count;
     }
 
-//     public int maxVowels(String s, int k) {
+    // public int maxVowels(String s, int k) {
 
-//         int max = 0;
+    //     int max = 0;
 
-//         for (int i = 0; i <= s.length() - k; i++) {
+    //     for (int i = 0; i <= s.length() - k; i++) {
 
-//             String str = "";
+    //         String str = "";
 
-//             for (int j = i; j < i + k; j++) {
-//                 char ch = s.charAt(j);
-//                 str = str + ch;
-//             }
+    //         for (int j = i; j < i + k; j++) {
+    //             char ch = s.charAt(j);
+    //             str = str + ch;
+    //         }
 
-//             int count = vowels(str);
+    //         int count = vowels(str);
 
-//             max = Math.max(max, count);
-//         }
+    //         max = Math.max(max, count);
+    //     }
 
-//         return max;
-//     }
+    //     return max;
+    // }
 // }
 
     public int maxVowels(String s, int k) {
