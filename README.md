@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/riteshgupta-607/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/riteshgupta-607/LEETCODE/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/riteshgupta-607/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/riteshgupta-607/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/riteshgupta-607/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/riteshgupta-607/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
