@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/riteshgupta-607/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/riteshgupta-607/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -231,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/riteshgupta-607/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/riteshgupta-607/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/riteshgupta-607/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
