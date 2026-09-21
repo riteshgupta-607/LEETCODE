@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/riteshgupta-607/LEETCODE/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/riteshgupta-607/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/riteshgupta-607/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/riteshgupta-607/LEETCODE/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0090-subsets-ii) |
 | [0229-majority-element-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0229-majority-element-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riteshgupta-607/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/riteshgupta-607/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/riteshgupta-607/LEETCODE/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/riteshgupta-607/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/riteshgupta-607/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/riteshgupta-607/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/riteshgupta-607/LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/riteshgupta-607/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/riteshgupta-607/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/riteshgupta-607/LEETCODE/tree/master/0090-subsets-ii) |
 ## Stack
 |  |
@@ -238,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/riteshgupta-607/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/riteshgupta-607/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/riteshgupta-607/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/riteshgupta-607/LEETCODE/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/riteshgupta-607/LEETCODE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
