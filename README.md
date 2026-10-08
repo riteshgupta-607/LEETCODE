@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshgupta-607/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/riteshgupta-607/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/riteshgupta-607/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [1089-duplicate-zeros](https://github.com/riteshgupta-607/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1872-stone-game-viii](https://github.com/riteshgupta-607/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2404-most-frequent-even-element](https://github.com/riteshgupta-607/LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/riteshgupta-607/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/riteshgupta-607/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/riteshgupta-607/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/riteshgupta-607/LEETCODE/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
