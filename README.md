@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/riteshgupta-607/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/riteshgupta-607/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/riteshgupta-607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/riteshgupta-607/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/riteshgupta-607/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Trie
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riteshgupta-607/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/riteshgupta-607/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/riteshgupta-607/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/riteshgupta-607/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
